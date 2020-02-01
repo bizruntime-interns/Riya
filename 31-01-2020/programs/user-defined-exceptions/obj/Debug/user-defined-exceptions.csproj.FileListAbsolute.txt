@@ -1,0 +1,7 @@
+F:\bizruntimes\31-01-2020\programs\user-defined-exceptions\bin\Debug\user-defined-exceptions.exe.config
+F:\bizruntimes\31-01-2020\programs\user-defined-exceptions\bin\Debug\user-defined-exceptions.exe
+F:\bizruntimes\31-01-2020\programs\user-defined-exceptions\bin\Debug\user-defined-exceptions.pdb
+F:\bizruntimes\31-01-2020\programs\user-defined-exceptions\obj\Debug\user-defined-exceptions.csprojAssemblyReference.cache
+F:\bizruntimes\31-01-2020\programs\user-defined-exceptions\obj\Debug\user-defined-exceptions.csproj.CoreCompileInputs.cache
+F:\bizruntimes\31-01-2020\programs\user-defined-exceptions\obj\Debug\user-defined-exceptions.exe
+F:\bizruntimes\31-01-2020\programs\user-defined-exceptions\obj\Debug\user-defined-exceptions.pdb
